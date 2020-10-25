@@ -1,0 +1,1 @@
+Na matéria de laboratório de montagem da UNESP o professor passou uma rede de petri, onde ele modelava o funcionamento de um sineleiro, onde dois sinais seriam controlados, para isso, implemetei o delay usando loops de nops, calculando o tempo de execução por instrução. Em breve vou publicar mais sobre no https://lcsvillela.github.io/
