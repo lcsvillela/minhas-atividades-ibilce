@@ -1,288 +1,432 @@
 
 0-----------
-Tempo: 0.000005
-Tipo: Bubble Sort
+Tempo: 0.000003
+Bubble Sort
 repeticao: 0
 elementos: 10
 
 1-----------
-Tempo: 0.000001
-Tipo: Counting Sort
+Tempo: 0.000002
+Counting Sort
 repeticao: 0
 elementos: 10
 
 2-----------
 Tempo: 0.000004
-Tipo: Merge Sort
+Merge Sort
 repeticao: 0
 elementos: 10
 
 3-----------
 Tempo: 0.000002
-Tipo: Insertion Sort
+Insertion Sort
 repeticao: 0
 elementos: 10
 
 4-----------
 Tempo: 0.000003
-Tipo: Heap Sort
+Heap Sort
 repeticao: 0
 elementos: 10
 
 5-----------
 Tempo: 0.000002
-Tipo: Quick Sort
+Quick Sort
 repeticao: 0
 elementos: 10
 
 5-----------
 Tempo: 0.000002
-Tipo: Bubble Sort
+Bubble Sort
 repeticao: 1
 elementos: 10
 
 6-----------
 Tempo: 0.000001
-Tipo: Counting Sort
+Counting Sort
 repeticao: 1
 elementos: 10
 
 7-----------
 Tempo: 0.000003
-Tipo: Merge Sort
+Merge Sort
 repeticao: 1
 elementos: 10
 
 8-----------
 Tempo: 0.000002
-Tipo: Insertion Sort
+Insertion Sort
 repeticao: 1
 elementos: 10
 
 9-----------
 Tempo: 0.000003
-Tipo: Heap Sort
+Heap Sort
 repeticao: 1
 elementos: 10
 
 10-----------
 Tempo: 0.000002
-Tipo: Quick Sort
+Quick Sort
 repeticao: 1
 elementos: 10
 
 10-----------
 Tempo: 0.000002
-Tipo: Bubble Sort
+Bubble Sort
 repeticao: 2
 elementos: 10
 
 11-----------
-Tempo: 0.000001
-Tipo: Counting Sort
+Tempo: 0.000002
+Counting Sort
 repeticao: 2
 elementos: 10
 
 12-----------
 Tempo: 0.000003
-Tipo: Merge Sort
+Merge Sort
 repeticao: 2
 elementos: 10
 
 13-----------
 Tempo: 0.000001
-Tipo: Insertion Sort
+Insertion Sort
 repeticao: 2
 elementos: 10
 
 14-----------
 Tempo: 0.000002
-Tipo: Heap Sort
+Heap Sort
 repeticao: 2
 elementos: 10
 
 15-----------
 Tempo: 0.000002
-Tipo: Quick Sort
+Quick Sort
 repeticao: 2
 elementos: 10
 
 15-----------
-Tempo: 0.000002
-Tipo: Bubble Sort
+Tempo: 0.000001
+Bubble Sort
 repeticao: 3
 elementos: 10
 
 16-----------
-Tempo: 0.000002
-Tipo: Counting Sort
+Tempo: 0.000001
+Counting Sort
 repeticao: 3
 elementos: 10
 
 17-----------
 Tempo: 0.000003
-Tipo: Merge Sort
+Merge Sort
 repeticao: 3
 elementos: 10
 
 18-----------
-Tempo: 0.000001
-Tipo: Insertion Sort
+Tempo: 0.000002
+Insertion Sort
 repeticao: 3
 elementos: 10
 
 19-----------
 Tempo: 0.000002
-Tipo: Heap Sort
+Heap Sort
 repeticao: 3
 elementos: 10
 
 20-----------
 Tempo: 0.000002
-Tipo: Quick Sort
+Quick Sort
 repeticao: 3
 elementos: 10
 
 20-----------
-Tempo: 0.005667
-Tipo: Bubble Sort
+Tempo: 0.005289
+Bubble Sort
 repeticao: 0
 elementos: 1000
 
 21-----------
 Tempo: 0.000002
-Tipo: Counting Sort
+Counting Sort
 repeticao: 0
 elementos: 1000
 
 22-----------
-Tempo: 0.000324
-Tipo: Merge Sort
+Tempo: 0.000330
+Merge Sort
 repeticao: 0
 elementos: 1000
 
 23-----------
-Tempo: 0.001699
-Tipo: Insertion Sort
+Tempo: 0.001703
+Insertion Sort
 repeticao: 0
 elementos: 1000
 
 24-----------
-Tempo: 0.000357
-Tipo: Heap Sort
+Tempo: 0.000349
+Heap Sort
 repeticao: 0
 elementos: 1000
 
 25-----------
 Tempo: 0.000477
-Tipo: Quick Sort
+Quick Sort
 repeticao: 0
 elementos: 1000
 
 25-----------
-Tempo: 0.005272
-Tipo: Bubble Sort
+Tempo: 0.005802
+Bubble Sort
 repeticao: 1
 elementos: 1000
 
 26-----------
 Tempo: 0.000001
-Tipo: Counting Sort
+Counting Sort
 repeticao: 1
 elementos: 1000
 
 27-----------
-Tempo: 0.000162
-Tipo: Merge Sort
+Tempo: 0.000319
+Merge Sort
 repeticao: 1
 elementos: 1000
 
 28-----------
-Tempo: 0.000851
-Tipo: Insertion Sort
+Tempo: 0.002372
+Insertion Sort
 repeticao: 1
 elementos: 1000
 
 29-----------
-Tempo: 0.000182
-Tipo: Heap Sort
+Tempo: 0.000467
+Heap Sort
 repeticao: 1
 elementos: 1000
 
 30-----------
-Tempo: 0.000268
-Tipo: Quick Sort
+Tempo: 0.000472
+Quick Sort
 repeticao: 1
 elementos: 1000
 
 30-----------
-Tempo: 0.003719
-Tipo: Bubble Sort
+Tempo: 0.005874
+Bubble Sort
 repeticao: 2
 elementos: 1000
 
 31-----------
-Tempo: 0.000002
-Tipo: Counting Sort
+Tempo: 0.000006
+Counting Sort
 repeticao: 2
 elementos: 1000
 
 32-----------
-Tempo: 0.000167
-Tipo: Merge Sort
+Tempo: 0.000410
+Merge Sort
 repeticao: 2
 elementos: 1000
 
 33-----------
-Tempo: 0.000866
-Tipo: Insertion Sort
+Tempo: 0.001671
+Insertion Sort
 repeticao: 2
 elementos: 1000
 
 34-----------
-Tempo: 0.000185
-Tipo: Heap Sort
+Tempo: 0.000408
+Heap Sort
 repeticao: 2
 elementos: 1000
 
 35-----------
-Tempo: 0.000241
-Tipo: Quick Sort
+Tempo: 0.000530
+Quick Sort
 repeticao: 2
 elementos: 1000
 
 35-----------
-Tempo: 0.002879
-Tipo: Bubble Sort
+Tempo: 0.007668
+Bubble Sort
 repeticao: 3
 elementos: 1000
 
 36-----------
-Tempo: 0.000001
-Tipo: Counting Sort
+Tempo: 0.000003
+Counting Sort
 repeticao: 3
 elementos: 1000
 
 37-----------
-Tempo: 0.000161
-Tipo: Merge Sort
+Tempo: 0.000401
+Merge Sort
 repeticao: 3
 elementos: 1000
 
 38-----------
-Tempo: 0.000849
-Tipo: Insertion Sort
+Tempo: 0.002089
+Insertion Sort
 repeticao: 3
 elementos: 1000
 
 39-----------
-Tempo: 0.000176
-Tipo: Heap Sort
+Tempo: 0.000455
+Heap Sort
 repeticao: 3
 elementos: 1000
 
 40-----------
-Tempo: 0.000236
-Tipo: Quick Sort
+Tempo: 0.000654
+Quick Sort
 repeticao: 3
 elementos: 1000
+
+40-----------
+Tempo: 193.559140
+Bubble Sort
+repeticao: 0
+elementos: 100000
+
+41-----------
+Tempo: 0.000004
+Counting Sort
+repeticao: 0
+elementos: 100000
+
+42-----------
+Tempo: 0.095728
+Merge Sort
+repeticao: 0
+elementos: 100000
+
+43-----------
+Tempo: 40.269186
+Insertion Sort
+repeticao: 0
+elementos: 100000
+
+44-----------
+Tempo: 0.103853
+Heap Sort
+repeticao: 0
+elementos: 100000
+
+45-----------
+Tempo: 6.378663
+Quick Sort
+repeticao: 0
+elementos: 100000
+
+45-----------
+Tempo: 167.007330
+Bubble Sort
+repeticao: 1
+elementos: 100000
+
+46-----------
+Tempo: 0.000004
+Counting Sort
+repeticao: 1
+elementos: 100000
+
+47-----------
+Tempo: 0.088137
+Merge Sort
+repeticao: 1
+elementos: 100000
+
+48-----------
+Tempo: 32.230050
+Insertion Sort
+repeticao: 1
+elementos: 100000
+
+49-----------
+Tempo: 0.096607
+Heap Sort
+repeticao: 1
+elementos: 100000
+
+50-----------
+Tempo: 5.314413
+Quick Sort
+repeticao: 1
+elementos: 100000
+
+50-----------
+Tempo: 135.299578
+Bubble Sort
+repeticao: 2
+elementos: 100000
+
+51-----------
+Tempo: 0.000003
+Counting Sort
+repeticao: 2
+elementos: 100000
+
+52-----------
+Tempo: 0.096410
+Merge Sort
+repeticao: 2
+elementos: 100000
+
+53-----------
+Tempo: 28.482399
+Insertion Sort
+repeticao: 2
+elementos: 100000
+
+54-----------
+Tempo: 0.070348
+Heap Sort
+repeticao: 2
+elementos: 100000
+
+55-----------
+Tempo: 5.061747
+Quick Sort
+repeticao: 2
+elementos: 100000
+
+55-----------
+Tempo: 144.430159
+Bubble Sort
+repeticao: 3
+elementos: 100000
+
+56-----------
+Tempo: 0.000003
+Counting Sort
+repeticao: 3
+elementos: 100000
+
+57-----------
+Tempo: 0.058124
+Merge Sort
+repeticao: 3
+elementos: 100000
+
+58-----------
+Tempo: 27.780472
+Insertion Sort
+repeticao: 3
+elementos: 100000
+
+59-----------
+Tempo: 0.125909
+Heap Sort
+repeticao: 3
+elementos: 100000
+
+60-----------
+Tempo: 5.701157
+Quick Sort
+repeticao: 3
+elementos: 100000
