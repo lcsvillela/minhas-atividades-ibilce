@@ -1,0 +1,33 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+
+%Gummi|065|=)
+\title{\textbf{Gerenciamento de um time de futebol: uma abordagem em Java}}
+\author{Lucas Villela Canôas}
+\date{31 de julho de 2019}
+\begin{document}
+
+\maketitle
+
+\section{Objetivos}
+
+A ideia consiste em criar um programa em java que faça a gestão de um time de futebol, se torna necessário realizar o registro de todos os funcionários que prestam serviço ao clube (massagistas, presidente do clube, treinador, jogadores, limpeza e outros), foi especificado para um mínimo de 5 rodadas de armazenamento de jogos anteriores na memória. Ao fim do registro, o programa deve também exibir o relatório financeiro do time.
+
+Além disso, foi exigido no trabalho que se utilizasse todos os tipos de poliformismo expostos na aula, que foram sobrecarga(Overload), sobreposição (Override), de parâmetros e coerção.
+Para refletir como um time funciona, observei a estrutura de do time Sport Club Corinthians Paulista.
+
+\section{Ferramentas utilizadas}
+Para a realização do trabalho foi utilizado o editor de texto Vim em um ambiente da distribuição Debian com um kernel Linux e o compilador javac.
+
+\section{Problemas esperados}
+Além dos problemas de utilização de estruturas relativamente desconhecidas pelo autor que não foram abordadas em sala devido a amplitude da linaguagem e o tempo finito, possivelmente os problemas de comparação e mitigação de inconsistências nas informações dos jogos serão um problema.
+
+\section{Problemas encontrados}
+
+O primeiro problema encontrado foi utilizar a estrutura enum, pois não havia sido criada o constrututor, o que gerou um erro inesperado, mas que rapidamente se resolveu.
+Por algum motivo desconhecido, não foi possível aplicar o construtor e o nome da função principal da classe teve que ser alterada. Ainda assim, até o presente momento a compilação não pode ser realizada, pois existe uma variável não encontrada pelo compilador javac, o que depois se transformou em um erro na utilização do construtor que não foi encontrada a solução. Para contornar o problema, não utilizei construtor nas classes.
+Não foi possível realizar a compilação do relatório, pois se tornou um procedimento confuso a extração e comparação usando a estrutura enum.
+
+
+
+\end{document}

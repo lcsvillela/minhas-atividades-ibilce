@@ -1,0 +1,20 @@
+Projeto - time de futebol
+
+entrega até 31/7 às 15h
+
+codigo fonte
+relatorio do projeto
+
+faça um programa que simule a gestão de um time de futebol
+quais os funcionarios?
+quais informacoes especificas precisamos?
+o programa deve armazenar o placar de 5 jogos do time.
+
+1) Quantos pontos o time fez?
+2) quantos gols feitos e tomados?
+
+3) fazer relatorios:
+	a) funcionarios (por tipo)
+	b) salários (por tipo)
+	c) score de gols por jogador
+
