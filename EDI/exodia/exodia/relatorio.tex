@@ -1,0 +1,36 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+%Gummi|065|=)
+\title{\textbf{Relatório Exodia}}
+\author{Lucas Villela Canôas}
+\date{}
+\begin{document}
+
+\maketitle
+
+\section{Objetivos}
+
+O objetivo é implementar um programa que faça a inserção dos livros de uma biblioteca em diversos tipos de estruturas de dados, como fila, pilha, árvore binária e árvore AVL.
+Também é considerado um objetivo a melhor modularização do código, fazendo bibliotecas e repartindo o codigo entre vários arquivos, o que facilita a manutenção, portanto seria impraticável a escrita em um único arquivo.
+
+\section {Ferramentas utilizadas}
+
+Foi usado o gcc versão 6.3.0 20170516 (Debian 6.3.0-18+deb9u1) como compilador, por vezes foi utilizado também o GNU Debugger para identificação de ponteiros com problemas e para a escrita do código, o programa de edição de textos usado foi o Vim.
+
+
+\section {Estruturas Lineares}
+
+A pilha é um estrutura linear que as operações são realizadas apenas no topo relativo da pilha, ou seja, as operações de inserção e remoção são feitas apenas de um lado arbitrário, então foram criadas as funções inserir início, remover início. Como era necessário implementar também a estrutura linear fila, foram criadas as funções remover início e remover final, pois alterando o código pode-se fazer a pilha crescer para baixo ou para cima ou fazer a fila crescer para a direita ou esquerda.
+
+\section {Estruturas não lineares}
+
+A arvore binária e a árvore AVL são estruturas não lineares, ou seja, existe mais de um caminho possível na estrutura. A árvore binária tem a característica de ter sempre dois filhos, já a árvore AVL é uma árvore binária balanceada pela altura. Para construir uma árvore AVL proposta, precisamos de funções de inserção, exibições em ordem, pré-ordem e pós-ordem.
+
+\section{Problemas encontrados}
+A resolução da pilha e da fila se deram de forma bastante trivial, porém a compreensão da implementação da árvore binária e AVL foram mais complexas, possivelmente devido ao uso exarcerbado de recursividade, o que aumenta substancialmente a abstração do código. Algo que ainda apresenta uma dificuldade, é lidar com os erros do compilador, pois nem sempre são triviais a ponto de saber exatamente o que está acontecendo, por conta disso foi perdido tempo significativo na implementação da árvore binária, que até o presente momento contêm ponteiros que perdem o direcionamento.
+
+
+\section{One more thing}
+If you are wondering where your old default text is; it has been stored as a template. The template menu can be used to access and restore it. 
+
+\end{document}
